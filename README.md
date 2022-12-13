@@ -1,9 +1,16 @@
-### 안녕하세요 데이비드의 Root RePository 입니다 👋
-- 🔭 현재 iOS 개발자 취업준비중입니다...
-- 🌱 제가 진행했던 프로젝트및 출시앱은 브랜치목록을 통해서 확인가능합니다 (ADProject, Personal, ToyProject)
-- 🤔 지금은 Swift JavaScript 언어에 관심을 가지고있습니다
-- 👯 제프로젝트를 보고 같이 페어코딩이나 사이드를 같이하실분은 글을 남겨주세요!
-- ⚡ 기술블로그를 운영및 업데이트중이고 링크 https://david-shindj.github.io
+AppleAcamey 
+
+👯 팀프로젝트
+MiniChallenge1 - https://github.com/DeveloperAcademy-POSTECH/FinishLine-Buy-or-not
+MiniChallenge2 - https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM
+MiniChallenge3 - https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-RiceCake
+
+
+
+⚡ 개인프로젝트
+NanoChallenge1 - https://github.com/DeveloperAcademy-POSTECH/NC-David
+NanoChallenge2 - https://github.com/DeveloperAcademy-POSTECH/NC2-David
+
 
 <!--
 **David-ShinDJ/David-ShinDJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
