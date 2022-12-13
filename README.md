@@ -1,15 +1,11 @@
-AppleAcamey 
+David 출시앱
 
-👯 팀프로젝트
-MiniChallenge1 - https://github.com/DeveloperAcademy-POSTECH/FinishLine-Buy-or-not
-MiniChallenge2 - https://github.com/DeveloperAcademy-POSTECH/MC2-Team6-BSNM
-MiniChallenge3 - https://github.com/DeveloperAcademy-POSTECH/MC3-Team13-RiceCake
-
-
-
-⚡ 개인프로젝트
+👯 출시준비중..
 NanoChallenge1 - https://github.com/DeveloperAcademy-POSTECH/NC-David
-NanoChallenge2 - https://github.com/DeveloperAcademy-POSTECH/NC2-David
+MacroChallenge - https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Compiler
+
+
+⚡ 출시완료.. 
 
 
 <!--
