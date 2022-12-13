@@ -1,9 +1,8 @@
 David 출시앱
 
 👯 출시준비중..
-NanoChallenge1 - https://github.com/DeveloperAcademy-POSTECH/NC-David
-MacroChallenge - https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Compiler
-
+- NanoChallenge1 - https://github.com/DeveloperAcademy-POSTECH/NC-David
+- MacroChallenge - https://github.com/DeveloperAcademy-POSTECH/MacC-Team-Compiler
 
 ⚡ 출시완료.. 
 
